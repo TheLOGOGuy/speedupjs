@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/minewhat/speedupjs#readme",
   "dependencies": {
-    "mocha": "^5.0.4"
+    "mocha": "^6.0.0"
   }
 }
